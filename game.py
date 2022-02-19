@@ -1,7 +1,7 @@
 import random
 
 name = input("What is your name? ")
-print("Good Luck !", name)
+print("Good Luck !",name)
 
 file = open('words.txt', 'r')
 words = file.read().split()
