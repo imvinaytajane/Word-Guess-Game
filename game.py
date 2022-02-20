@@ -28,10 +28,10 @@ while turns > 0:
         # comparing that character with
         # the character in guesses
         if char in guesses:
-            print(char)
+            print(char,end=' ')
 
         else:
-            print("_")
+            print("_",end=' ')
 
             # for every failure 1 will be incremented in failure
             failed += 1
@@ -47,8 +47,8 @@ while turns > 0:
 
     # if user has input the wrong alphabet then
     # it will ask user to enter another alphabet
-    # print()
-    guess = input("guess a character:")
+    print()
+    guess = input("\nguess a character:")
     print("========================")
 
     # every input character will be stored in guesses
