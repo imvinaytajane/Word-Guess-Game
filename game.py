@@ -49,6 +49,7 @@ while turns > 0:
     # it will ask user to enter another alphabet
     # print()
     guess = input("guess a character:")
+    print("========================")
 
     # every input character will be stored in guesses
     guesses += guess
