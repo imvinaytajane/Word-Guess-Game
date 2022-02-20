@@ -1,7 +1,7 @@
 import random
 
 name = input("What is your name? ")
-print("Good Luck !",name)
+print("Good Luck !", name)
 
 file = open('words.txt', 'r')
 words = file.read().split()
@@ -14,12 +14,12 @@ print("Guess the characters")
 
 guesses = ''
 
-turns = 12
+turns = 10
 
 while turns > 0:
 
     # counts the number of times a user fails
-    failed = 0
+    fail = 0
 
     # all characters from the input
     # word taking one at a time.
@@ -28,15 +28,15 @@ while turns > 0:
         # comparing that character with
         # the character in guesses
         if char in guesses:
-            print(char,end=' ')
+            print(char, end=' ')
 
         else:
-            print("_",end=' ')
+            print("_", end=' ')
 
             # for every failure 1 will be incremented in failure
-            failed += 1
+            fail += 1
 
-    if failed == 0:
+    if fail == 0:
         # user will win the game if failure is 0
         # and 'You Win' will be given as output
         print("You Win")
