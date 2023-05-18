@@ -1,0 +1,100 @@
+apple: A fruit that is typically red or green.
+ball: A spherical object used in various sports and games.
+cat: A small domesticated carnivorous mammal with soft fur.
+dog: A domesticated carnivorous mammal often kept as a pet.
+elephant: A large mammal with a long trunk and tusks.
+fan: An electrical device used to create a current of air.
+grapes: Small, juicy fruits often used to make wine.
+hen: A female chicken.
+ice cream: A frozen dessert made from dairy products.
+joker: A person who jokes and makes people laugh.
+kite: A lightweight object that flies in the air using wind.
+lemon: A yellow citrus fruit with sour taste.
+lion: A large and powerful wild animal.
+monkey: A primate that typically lives in trees and has a long tail.
+nest: A structure built by birds for laying eggs and raising young.
+orange: A citrus fruit with a bright orange color.
+peacock: A large and colorful bird known for its beautiful feathers.
+queen: The female ruler of a country.
+rose: A fragrant flower often associated with love and beauty.
+sun: The star at the center of the solar system.
+tiger: A large carnivorous feline with a striped coat.
+umbrella: A device used for protection against rain or sunlight.
+van: A large enclosed vehicle used for transporting goods or people.
+watch: A timepiece worn on the wrist or carried in a pocket.
+xylophone: A musical instrument with wooden bars that are struck with mallets.
+yacht: A recreational boat used for sailing or cruising.
+zebra: A large wild animal with black and white stripes.
+almond: An edible nut with a hard shell and a sweet kernel.
+banana: A long curved fruit with a yellow peel.
+carrot: A root vegetable that is typically orange in color.
+dolphin: A marine mammal known for its intelligence and playful behavior.
+eagle: A large bird of prey with a hooked beak and strong claws.
+fish: A cold-blooded aquatic animal with gills and fins.
+guitar: A stringed musical instrument played with the fingers or a pick.
+honey: A sweet, viscous substance produced by bees.
+island: A piece of land surrounded by water.
+koala: A small bear-like marsupial native to Australia.
+leopard: A large wild cat known for its spotted fur.
+ninja: A person skilled in the art of stealth and combat.
+ocean: A vast body of saltwater that covers most of the Earth's surface.
+piano: A musical instrument with a keyboard and strings.
+quilt: A bed covering made of padded and stitched fabric.
+rabbit: A small mammal with long ears and a fluffy tail.
+squirrel: A small rodent with a bushy tail.
+tulip: A brightly colored flower with cup-shaped petals.
+violin: A stringed musical instrument played with a bow.
+watermelon: A large, juicy fruit with a green rind and sweet, red flesh.
+yoga: A physical, mental, and spiritual practice originating from ancient India.
+zeppelin: A type of airship used for transportation and military purposes in the past.
+antelope: A fast-running hoofed mammal with long horns.
+book: A written or printed work consisting of pages.
+cactus: A spiky desert plant adapted to arid environments.
+dragon: A mythical creature with reptilian features and often associated with fire.
+flamingo: A tall wading bird known for its distinctive pink color.
+giraffe: A tall African mammal with a long neck and patterned coat.
+hamburger: A popular food consisting of a cooked patty in a bun.
+iceberg: A large floating mass of ice detached from a glacier or ice sheet.
+jellyfish: A gelatinous marine creature with long tentacles and a bell-shaped body.
+kangaroo: A marsupial mammal known for its powerful hind legs and pouch.
+mango: A tropical fruit with a sweet and juicy flesh.
+ostrich: A large flightless bird with a long neck and powerful legs.
+penguin: A flightless bird that lives in the Southern Hemisphere.
+quokka: A small marsupial known for its friendly and smiley appearance.
+rhinoceros: A large herbivorous mammal with one or two horns on its nose.
+saxophone: A musical instrument with a curved metal tube and a reed mouthpiece.
+toucan: A brightly colored bird with a large beak found in tropical regions.
+unicorn: A mythical creature resembling a horse with a single horn on its forehead.
+volcano: A mountain or hill with a crater or vent through which lava erupts.
+whale: A large marine mammal with a streamlined body and blowhole for breathing.
+Aquarium: It's a place where various aquatic creatures are housed.
+Computer: It's an electronic device used for various purposes, including communication and data processing.
+Dinosaur: It's an extinct reptile that lived millions of years ago.
+Fireworks: They are colorful explosions in the sky, often seen during celebrations.
+Island: It's a landmass completely surrounded by water.
+Jungle: It's a dense and lush natural area with abundant vegetation and wildlife.
+Lighthouse: It's a tall tower or structure with a bright light used to guide ships at sea.
+Mountain: It's a high landform typically rocky and rises above its surroundings.
+Notebook: It's a portable device used for writing, note-taking, and organizing information.
+Oxygen: It's a vital gas required for breathing and combustion.
+Quartz: It's a mineral known for its clear or colored crystalline structure.
+Spaceship: It's a spacecraft designed for travel beyond Earth's atmosphere.
+Telescope: It's an optical instrument used to view distant objects and celestial bodies.
+Hippopotamus: It's a large semi-aquatic mammal known for its massive size and barrel-shaped body.
+Iguana: It's a type of reptile with a long body, sharp teeth, and a forked tongue.
+Jaguar: It's a large wild cat native to the Americas, known for its powerful build and distinctive coat.
+Llama: It's a domesticated pack animal often found in South America.
+Nightingale: It's a small bird known for its melodious nighttime song.
+Octopus: It's a marine creature with multiple tentacles and a soft, squishy body.
+Panda: It's a bear-like mammal native to China known for its distinct black and white markings.
+Raccoon: It's a small to medium-sized mammal with a mask-like face and ringed tail.
+Violet: It's a vibrant color often associated with flowers.
+Walrus: It's a large marine mammal with long tusks and a thick blubbery body.
+Xenops: It's a bird known for its ability to fly long distances and its webbed feet.
+Yak: It's a domesticated pack animal often found in mountainous regions.
+Avocado: It's a fruit with green skin and creamy flesh, often used in guacamole.
+Broccoli: It's a green vegetable with a dense, flowering head.
+Flower: It's a reproductive structure found in plants that produces seeds and is often fragrant.
+Globe: It's a spherical object used to represent the Earth or as a navigational tool.
+Icicle: It's a long, pointed piece of ice that forms by the freezing of dripping water.
+Jackfruit: This tropical fruit has a spiky rind and a sweet, aromatic flesh. It is one of the largest tree-borne fruits in the world.
